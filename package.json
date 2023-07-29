@@ -2,17 +2,17 @@
   "name": "danger-plugin-istanbul-coverage",
   "description": "Danger.js plugin for monitoring istanbul code coverage on changed files.",
   "author": {
-    "name": "Darcy Rayner",
-    "email": "darcy.rayner@gmail.com"
+    "name": "HS",
+    "email": "singhrasster@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/darcy-rayner/danger-plugin-istanbul-coverage.git"
+    "url": "https://github.com/healthsherpa/danger-plugin-istanbul-coverage.git"
   },
   "bugs": {
-    "url": "https://github.com/darcy-rayner/danger-plugin-istanbul-coverage/issues"
+    "url": "https://github.com/healthsherpa/danger-plugin-istanbul-coverage/issues"
   },
-  "homepage": "https://github.com/darcy-rayner/danger-plugin-istanbul-coverage#readme",
+  "homepage": "https://github.com/healthsherpa/danger-plugin-istanbul-coverage#readme",
   "keywords": [
     "danger",
     "danger-plugin",
